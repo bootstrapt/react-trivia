@@ -40,7 +40,7 @@ Simple trivia application that uses questions from the Open Trivia Database.
 ### Update trivia questions
 
 Please visit [https://opentdb.com/api_config.php](https://opentdb.com/api_config.php) for trivia API options.  
-`cd ./assets`  
+`cd ./src/assets`  
 `curl -X GET 'https://opentdb.com/api.php?amount=20' > questions.json`
 
 _built with React + Typescript + Node + Vite_
