@@ -1,4 +1,3 @@
-import './App.css'
 import TriviaCard from './components/TriviaCard';
 
 const App = () => {
