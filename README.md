@@ -4,11 +4,11 @@ Simple trivia application that uses questions from the Open Trivia Database.
 
 ### Spec
 
-✅ At least 20 questions and answers
-✅ 2 or more components
-✅ 1 or more Buttons for interactivity
-✅ Show one question or answer at a time
-✅ Move forward or back through the trivia questions
+✅ At least 20 questions and answers  
+✅ 2 or more components  
+✅ 1 or more Buttons for interactivity  
+✅ Show one question or answer at a time  
+✅ Move forward or back through the trivia questions  
 ✅ When moving forward or back through cards the new card should show the question and not the answer
 
 ### Requirements
