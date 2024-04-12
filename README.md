@@ -20,16 +20,16 @@ Simple trivia application that uses questions from the Open Trivia Database.
 
 ### Installation
 
-1. Clone the repo
-   `git clone `
+1. Clone the repo  
+   `git clone`
 
-2. Enter the project directory
+2. Enter the project directory  
    `cd react-trivia`
 
-3. (as needed) Switch to Node v16.14
+3. (as needed) Switch to Node v16.14  
    `nvm use`
 
-4. Install dependencies
+4. Install dependencies  
    `npm install`
 
 ### Run locally
@@ -39,7 +39,7 @@ Simple trivia application that uses questions from the Open Trivia Database.
 
 ### Update trivia questions
 
-Please visit [https://opentdb.com/api_config.php](https://opentdb.com/api_config.php) for trivia API options.
+Please visit [https://opentdb.com/api_config.php](https://opentdb.com/api_config.php) for trivia API options.  
 `cd ./assets`  
 `curl -X GET 'https://opentdb.com/api.php?amount=20' > questions.json`
 
